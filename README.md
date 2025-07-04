@@ -2,20 +2,17 @@
 
 Hi there! I'm a passionate Computer Science student who loves building things with code and exploring the evolving tech landscape.
 
-## 🌐 What I Do
-- 🚀 Full-Stack Web Developer — Crafting dynamic web applications using modern stacks.
-- 🧠 Generative AI Explorer — Integrating **LLMs** with **LangChain** to build smart applications.
-- 🎮 Game Developer — Creating games in **Unity** and **Godot** just for the love of it.
-- ⚙️ DevOps & System Design Learner — Eager to master infrastructure and scalable system architecture.
-- 📚 CS Theorist — Fascinated by the theoretical foundations of computer science.
-
-## 🔭 Currently Learning
-- Docker, Kubernetes & Cloud Computing (AWS)
-- Advanced backend architecture & distributed systems
-- Optimization techniques for LLM-powered apps
+## 🔧 What I'm Into
+- 🌐 Full-Stack Web Development — Building modern web apps with clean, scalable code.
+- 🧠 Generative AI — Using **LLMs** and **LangChain** to create intelligent systems.
+- 🎮 Game Development — Making fun side projects in **Unity** and **Godot**.
+- ⚙️ DevOps & System Design — Learning **Docker**, **Kubernetes**, **CI/CD**, and scalable architecture.
+- 📚 Theoretical CS — Intrigued by algorithms, computation theory, and low-level concepts.
+- 📈 Backend Optimization — Improving performance in AI-powered and distributed apps.
 
 > “Stay curious, stay building.” 🔧💡
 
 <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/52307eff-c272-4bc5-ba72-e4630fc49e6e" width="45" height="45"> |<img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/4493061f-0062-448b-8550-8600076cb325" width="45" height="45"> |<img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/ee9ef4d9-4ff9-4e34-aa83-b602a46a79eb" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/f4ed95ac-5df6-41ee-8922-5445a237703b" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/1a3b35ad-637a-429f-a34c-6f82aabfb62f" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/bcb47e51-e4c8-4e05-8181-e77d83ebb7ad" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/f83f2966-18ab-4a81-a423-8f22d8a40e67" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/d74a1ce4-b503-4768-ae15-16b6377d0e84" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/115c6eef-a333-47de-a1c7-9873d98e55fa" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/14bb1304-db35-4305-8012-cd8e17e86a29" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/07ce6236-939b-447c-9ba4-4007e0cd9671" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/a81bd050-eb97-4542-b7d6-6da176464980" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/3dba7066-5a88-4cc3-9f8e-5566ec36b979" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/f0ecfb45-20cc-43e4-9fb7-1a95731ec4c5" width="45" height="45">
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |---
 <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/6404eee8-63ba-4e4f-9579-f2188fb59515" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/1218dd57-cc79-4253-b5d9-9c1fb0d6d3e8" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/bde76bda-3ecb-4bef-9370-3f34469d23b2" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/2473c0c1-191c-4d8a-acb4-a70718acaf5b" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/b6663e17-3994-4e43-998a-51414606d09e" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/b8018612-1a04-41a8-ae65-5cf5fa9af796" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/a5ed8508-07f9-4b2a-a4e7-92f01790473f" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/16c1d090-629f-4dd3-99da-cec4da2fc3c7" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/17e328a1-4f79-43a5-852d-a0a8036a92e8" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/8d9389d1-55e4-4aa8-bc7a-bafeb69f673e" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/9ef2ea03-d772-4fe0-8e15-aeda12dc9ae1" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/50c71ef2-f8c6-48b0-bf14-db2904da7894" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/737a7bb9-68aa-418b-ab99-2b87a30f33bf" width="45" height="45"> | <img src="https://github.com/m-ans-ishfaq/m-ans-ishfaq/assets/150812466/877d3e8e-87c3-4706-a1e9-b9efab8ad0c0" width="45" height="45">
+
