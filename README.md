@@ -1,11 +1,3 @@
 # 👨‍💻 Computer Science Student | Software Engineer
-
-Hi, I’m a Computer Science student who writes code across the stack — and sometimes even understands it. I work on everything from **frontend interfaces** to **backend systems**, often in peaceful cooperation, occasionally in open war. I’m comfortable switching between **high-level scripting** and **low-level programming**, though only one of them feels like a survival game.
-
-On a good day, I build clean, scalable systems. On most days, I scroll through decade-old StackOverflow threads, fix one-line bugs over the course of three hours, and deploy to production with the confidence of someone who definitely didn’t just whisper *“please work”* into their terminal.
-
-I occasionally explore **AI tooling** and **automation frameworks** — not because I think machines are replacing us, but because I enjoy arguing with ones that don’t talk back. While the world debates the future of engineering, I continue writing **shell scripts** that break in *exactly* the same way every time — a form of reliability I’ve come to admire.
-
-Outside of work, I build **experimental games**, sketch out **overengineered systems** I may never finish, and quietly pretend I’ll "learn infrastructure properly this weekend" — every weekend.
-
-**Powered by caffeine ☕, calm under version control 🧘‍♂️, and passionate about coding 💻.**
+A full-stack human held together by caffeine and git commit -m "final-final-FINAL", fluent in HTML/CSS, JS/TS, React, Next.js, Node, Nest, Express, Rust, C, C++, C#, Java, and whatever else the void demands; juggling MongoDB, Postgres, Redis, MySQL, SQL Server, Astra like ticking bombs; styling UIs with Tailwind while Docker breaks in new and exciting ways; deploying broken builds via Vite at 3AM; writing bash scripts on Arch Linux so I can put `I use arch btw` in my resume; arguing with OpenAI APIs for emotional closure; designing pixel-perfect architectures in Figma, Photoshop, and Illustrator; haunted by ghost projects, cursed PRs, unread documentation, and the weekly ritual of pretending this time I’ll “learn kubernetes” — right before drowning in another recursive existential loop wrapped in a try/catch.v
+> Passionate about Coding, Calm under Version Control, Powered by Caffeine™.
